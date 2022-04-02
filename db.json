@@ -4,7 +4,7 @@
     "id": "1",
     "title": "سترة حمراء",
     "images": [
-      "../assets/jacket1_full.jpg"
+      "jacket1"
     ],
     "price": 100,
     "categoryId": 5,
